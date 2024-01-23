@@ -1,0 +1,1 @@
+Welcome to my Github , where innovation meets code! Dive into my Text-to-Speech (TTS) implementation, crafted with precision. Experience the seamless conversion of text to natural-sounding speech. Your insights are invaluable in refining this project. Explore, provide feedback, and let's push the boundaries of TTS technology together!
